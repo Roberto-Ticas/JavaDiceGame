@@ -1,2 +1,2 @@
-# JavaDiceGame
-a little dice game comprised of java code
+# dice_game
+A little dice game made using Java.
